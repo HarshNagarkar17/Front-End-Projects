@@ -6,7 +6,7 @@ Blog website created using HTML, CSS, Javascript where users can write and post 
 
 # TECH STACK:
 
-HTML , CSS.
+HTML , CSS, JAVASCRIPT.
 
 # PROJECT SPECIFICATION:
 

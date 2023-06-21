@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&display=swap");
-:root { 
-  --main-bg-color: #bd6418;
+:root {
+  --main-bg-color: #1a1a1a; /* Set the main background color to a dark shade */
   --font1: "Baloo Bhaina 2", cursive;
   --font2: "Roboto", sans-serif;
 }
